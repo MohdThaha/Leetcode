@@ -6,24 +6,28 @@
 var closeStrings = function(word1, word2) {
     if (word1.length !== word2.length) return false;
 
-    // Count character frequencies for both words
-    const countFrequency = (word) => {
-        const freq = new Map();
-        for (const char of word) {
-            freq.set(char, (freq.get(char) || 0) + 1);
-        }
-        return freq;
-    };
+    const count1 = new Array(26).fill(0);
+    const count2 = new Array(26).fill(0);
+    const seen1 = new Set();
+    const seen2 = new Set();
 
-    const freq1 = countFrequency(word1);
-    const freq2 = countFrequency(word2);
+    for (let char of word1) {
+        const index = char.charCodeAt(0) - 97;
+        count1[index]++;
+        seen1.add(index);
+    }
+    for (let char of word2) {
+        const index = char.charCodeAt(0) - 97;
+        count2[index]++;
+        seen2.add(index);
+    }
 
-    const uniqueChars1 = new Set(freq1.keys());
-    const uniqueChars2 = new Set(freq2.keys());
-    if (![...uniqueChars1].every((char) => uniqueChars2.has(char))) return false;
+    if (seen1.size !== seen2.size || ![...seen1].every((char) => seen2.has(char))) {
+        return false;
+    }
 
-    const sortedFreq1 = Array.from(freq1.values()).sort((a, b) => a - b);
-    const sortedFreq2 = Array.from(freq2.values()).sort((a, b) => a - b);
+    count1.sort((a, b) => a - b);
+    count2.sort((a, b) => a - b);
 
-    return sortedFreq1.toString() === sortedFreq2.toString();
+    return count1.join('') === count2.join('');
 };
