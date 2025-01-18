@@ -18,12 +18,10 @@ var closeStrings = function(word1, word2) {
     const freq1 = countFrequency(word1);
     const freq2 = countFrequency(word2);
 
-    // Check if both words have the same unique characters
     const uniqueChars1 = new Set(freq1.keys());
     const uniqueChars2 = new Set(freq2.keys());
     if (![...uniqueChars1].every((char) => uniqueChars2.has(char))) return false;
 
-    // Check if character frequencies can be rearranged to match
     const sortedFreq1 = Array.from(freq1.values()).sort((a, b) => a - b);
     const sortedFreq2 = Array.from(freq2.values()).sort((a, b) => a - b);
 
