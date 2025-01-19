@@ -4,17 +4,18 @@
  */
 var removeStars = function(s) {
     const stack = [];
+    let i = 0;
 
-    for (let char of s) {
-        if (char === '*') {
+    while (i < s.length) {
+        if (s[i] === '*') {
             if (stack.length > 0) {
                 stack.pop(); 
             }
         } else {
-            stack.push(char); 
+            stack.push(s[i]); 
         }
+        i++; 
     }
-
 
     return stack.join('');
 };
