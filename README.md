@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/MohdThaha/Leetcode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MohdThaha/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/MohdThaha/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/MohdThaha/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/MohdThaha/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/MohdThaha/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/MohdThaha/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
 | ------- |
