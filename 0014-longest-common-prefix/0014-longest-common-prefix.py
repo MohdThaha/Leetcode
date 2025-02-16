@@ -4,7 +4,6 @@ class Solution:
         if not strs:
             return ""
         
-        # Take the first string as the reference prefix
         prefix = strs[0]
         
         for string in strs[1:]:
