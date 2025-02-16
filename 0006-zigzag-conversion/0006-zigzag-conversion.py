@@ -4,10 +4,9 @@ class Solution:
         if numRows == 1 or numRows >= len(s):
             return s
         
-        # Create an array of empty strings for each row
         rows = [""] * numRows
-        index, step = 0, 1  # index tracks row position, step determines direction
-
+        index, step = 0, 1  
+        
         for char in s:
             rows[index] += char  # Append character to the current row
 
