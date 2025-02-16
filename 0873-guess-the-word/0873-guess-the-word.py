@@ -12,14 +12,13 @@ class Solution:
             """Returns the number of matching characters between two words."""
             return sum(c1 == c2 for c1, c2 in zip(word1, word2))
 
-        for _ in range(90):  # We are allowed at most 10 guesses
-            guess_word = random.choice(words)  # Pick a random word from the list
-            matches = master.guess(guess_word)  # Get feedback on how many characters match
+        for _ in range(90): 
+            guess_word = random.choice(words)  
+            matches = master.guess(guess_word)  
             
             if matches == 6:
-                return  # Found the secret word
+                return  
             
-            # Filter words that have the same number of matching characters as the guessed word
             words = [word for word in words if count_matches(word, guess_word) == matches]
 
       
