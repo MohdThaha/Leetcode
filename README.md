@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/MohdThaha/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MohdThaha/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohdThaha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohdThaha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -135,10 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0054-spiral-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/MohdThaha/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0054-spiral-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/MohdThaha/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/MohdThaha/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
