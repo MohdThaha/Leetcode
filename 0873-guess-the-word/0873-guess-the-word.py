@@ -12,7 +12,7 @@ class Solution:
             """Returns the number of matching characters between two words."""
             return sum(c1 == c2 for c1, c2 in zip(word1, word2))
 
-        for _ in range(20):  # We are allowed at most 10 guesses
+        for _ in range(90):  # We are allowed at most 10 guesses
             guess_word = random.choice(words)  # Pick a random word from the list
             matches = master.guess(guess_word)  # Get feedback on how many characters match
             
