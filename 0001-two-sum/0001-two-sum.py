@@ -12,3 +12,5 @@ class Solution:
             num_map[num] = i  
         
         return []  
+        
+        
