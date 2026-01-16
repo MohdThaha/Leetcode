@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/MohdThaha/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MohdThaha/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/MohdThaha/Leetcode/tree/master/0268-missing-number) |
 | [0873-guess-the-word](https://github.com/MohdThaha/Leetcode/tree/master/0873-guess-the-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MohdThaha/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohdThaha/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MohdThaha/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/MohdThaha/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MohdThaha/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/MohdThaha/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MohdThaha/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/MohdThaha/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/MohdThaha/Leetcode/tree/master/0605-can-place-flowers) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MohdThaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohdThaha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MohdThaha/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/MohdThaha/Leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/MohdThaha/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MohdThaha/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MohdThaha/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MohdThaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohdThaha/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/MohdThaha/Leetcode/tree/master/0268-missing-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MohdThaha/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MohdThaha/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/MohdThaha/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohdThaha/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/MohdThaha/Leetcode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/MohdThaha/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MohdThaha/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/MohdThaha/Leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
