@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-guess-the-word](https://github.com/MohdThaha/Leetcode/tree/master/0873-guess-the-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MohdThaha/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohdThaha/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MohdThaha/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/MohdThaha/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/MohdThaha/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohdThaha/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MohdThaha/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Greedy
 |  |
 | ------- |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MohdThaha/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MohdThaha/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
