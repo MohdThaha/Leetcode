@@ -4,9 +4,7 @@ class Solution:
 
         x=1
         for i in nums:
-            if i <= 0:
-                continue
-            elif x == i:
+            if x == i:
                 x+=1
             elif i > x :
                 return x
