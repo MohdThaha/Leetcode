@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdThaha/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MohdThaha/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MohdThaha/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/MohdThaha/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MohdThaha/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MohdThaha/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohdThaha/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MohdThaha/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MohdThaha/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/MohdThaha/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MohdThaha/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/MohdThaha/Leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/MohdThaha/Leetcode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/MohdThaha/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/MohdThaha/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MohdThaha/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MohdThaha/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MohdThaha/Leetcode/tree/master/0268-missing-number) |
 ## Tree
