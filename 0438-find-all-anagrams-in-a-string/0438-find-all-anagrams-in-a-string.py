@@ -1,33 +1,22 @@
-from collections import defaultdict
-from typing import List
-
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        if len(p) > len(s):
-            return []
+        if len(p) > len(s): return []
+        pCount, sCount = {}, {}
 
-        count = defaultdict(int)
-        for c in p:
-            count[c] += 1
+        for i in range(len(p)):
+            pCount[p[i]] = pCount.get(p[i],0) + 1 
+            sCount[s[i]] = sCount.get(s[i],0) + 1
+        
+        res = [0] if sCount == pCount else [] 
+        l = 0
+        for r in range(len(p),len(s)):
+            sCount[s[r]] = sCount.get(s[r],0) + 1
+            sCount[s[l]] -= 1
 
-        left = 0
-        right = 0
-        needed = len(p)
-        res = []
+            if sCount[s[l]] == 0:
+                sCount.pop(s[l]) 
 
-        while right < len(s):
-            if count[s[right]] > 0:
-                needed -= 1
-            count[s[right]] -= 1
-            right += 1
-
-            if needed == 0:
-                res.append(left)
-
-            if right - left == len(p):
-                if count[s[left]] >= 0:
-                    needed += 1
-                count[s[left]] += 1
-                left += 1
-
+            l += 1
+            if sCount == pCount:
+                res.append(l)
         return res
