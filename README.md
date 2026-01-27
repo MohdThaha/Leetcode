@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/MohdThaha/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/MohdThaha/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/MohdThaha/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MohdThaha/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/MohdThaha/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MohdThaha/Leetcode/tree/master/0735-asteroid-collision) |
 | [0873-guess-the-word](https://github.com/MohdThaha/Leetcode/tree/master/0873-guess-the-word) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdThaha/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/MohdThaha/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MohdThaha/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MohdThaha/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MohdThaha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/MohdThaha/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0977-squares-of-a-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MohdThaha/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MohdThaha/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
