@@ -3,4 +3,5 @@ class Solution:
         x = []
         for i in nums:
             x.append(i**2)
-        return sorted(x)        
+        x.sort()        
+        return x        
