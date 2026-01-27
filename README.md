@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohdThaha/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdThaha/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/MohdThaha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohdThaha/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MohdThaha/Leetcode/tree/master/0125-valid-palindrome) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MohdThaha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MohdThaha/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MohdThaha/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/MohdThaha/Leetcode/tree/master/0118-pascals-triangle) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MohdThaha/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MohdThaha/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/MohdThaha/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/MohdThaha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MohdThaha/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/MohdThaha/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0054-spiral-matrix) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohdThaha/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MohdThaha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/MohdThaha/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/MohdThaha/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
@@ -361,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MohdThaha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/MohdThaha/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MohdThaha/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
