@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/MohdThaha/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/MohdThaha/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/MohdThaha/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MohdThaha/Leetcode/tree/master/0739-daily-temperatures) |
 | [0873-guess-the-word](https://github.com/MohdThaha/Leetcode/tree/master/0873-guess-the-word) |
 | [0904-fruit-into-baskets](https://github.com/MohdThaha/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdThaha/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MohdThaha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/MohdThaha/Leetcode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/MohdThaha/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MohdThaha/Leetcode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/MohdThaha/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MohdThaha/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/MohdThaha/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
