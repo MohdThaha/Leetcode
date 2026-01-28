@@ -9,7 +9,7 @@ class Solution:
             count[s[r]] = count.get(s[r], 0) + 1
             max_freq = max(max_freq, count[s[r]])
 
-            if (r - l + 1) - max_freq > k:
+            while (r - l + 1) - max_freq > k:
                 count[s[l]] -= 1
                 l += 1
 
