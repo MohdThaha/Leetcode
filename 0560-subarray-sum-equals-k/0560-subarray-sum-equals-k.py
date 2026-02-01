@@ -1,20 +1,19 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
+
+        mp = {0:1}
+        currentSum = 0
+        count = 0
         
-        count = 0 
-        psum = 0
-        x = {0:1}
-
         for i in nums:
-            psum += i
+            currentSum += i
+            rem  = currentSum - k
 
-            if psum - k in x:
-                count += x[psum - k] 
-
-            x[psum] = x.get(psum,0)+1
-
-        return count
+            if rem in mp:
+                count += mp[rem]
             
-
+            mp[currentSum] = mp.get(currentSum,0)+1
+        return count
+                 
 
         
