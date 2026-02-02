@@ -1,20 +1,14 @@
 class Solution:
     def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
 
+        mp = {}
         res = []
-        nums.sort()
-        j = 1
-        
+
         for i in nums:
-            while i > j:
-                res.append(j)
-                j += 1
-            if i == j:
-                j += 1
+            mp[i] = mp.get(i,0)+1
         
-        while  j != len(nums) + 1:
-           res.append(j) 
-           j += 1
-        
+        for i in range(1,len(nums)+1):
+            if i not in mp:
+                res.append(i)
         return res
         
