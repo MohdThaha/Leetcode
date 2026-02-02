@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/MohdThaha/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MohdThaha/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/MohdThaha/Leetcode/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/MohdThaha/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/MohdThaha/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdThaha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MohdThaha/Leetcode/tree/master/0605-can-place-flowers) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0463-island-perimeter](https://github.com/MohdThaha/Leetcode/tree/master/0463-island-perimeter) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MohdThaha/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/MohdThaha/Leetcode/tree/master/1895-largest-magic-square) |
 | [2428-equal-row-and-column-pairs](https://github.com/MohdThaha/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -433,4 +435,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MohdThaha/Leetcode/tree/master/0274-h-index) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/MohdThaha/Leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/MohdThaha/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
