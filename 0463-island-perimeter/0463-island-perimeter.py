@@ -15,7 +15,7 @@ class Solution:
                     if r== row-1 or grid[r+1][c] == 0:
                         peri +=1
                     #l
-                    if grid[r][c-1] == 0 or c== 0:
+                    if c== 0 or grid[r][c-1] == 0:
                         peri +=1
                     #r
                     if  c== col-1 or grid[r][c+1] == 0:
