@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MohdThaha/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohdThaha/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MohdThaha/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/MohdThaha/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Array
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohdThaha/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MohdThaha/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohdThaha/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/MohdThaha/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/MohdThaha/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/MohdThaha/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohdThaha/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/MohdThaha/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MohdThaha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/MohdThaha/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MohdThaha/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/MohdThaha/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -464,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/MohdThaha/Leetcode/tree/master/0463-island-perimeter) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/MohdThaha/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
