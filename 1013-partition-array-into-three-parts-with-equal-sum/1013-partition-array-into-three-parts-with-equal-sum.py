@@ -1,25 +1,22 @@
 class Solution:
     def canThreePartsEqualSum(self, arr: List[int]) -> bool:
+        total = sum(arr)
 
-        currentSum = 0
-        result = []
-
-        for i in arr:
-            currentSum += i
-            result.append(currentSum)
-        
-        finalSum = result[-1]
-        oneThird = finalSum//3
-        twoThird = oneThird*2
-        foundFirst = False
-
-        if finalSum % 3 != 0:
+        if total % 3 != 0:
             return False
 
-        for i in result[:-1]:
-            if i == oneThird and not foundFirst:
+        oneThird = total // 3
+        twoThird = oneThird * 2
+
+        prefixSum = 0
+        foundFirst = False
+
+        for i in range(len(arr) - 1):  
+            prefixSum += arr[i]
+
+            if prefixSum == oneThird and not foundFirst:
                 foundFirst = True
-            elif i == twoThird and foundFirst:
+            elif prefixSum == twoThird and foundFirst:
                 return True
-            
+
         return False
