@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/MohdThaha/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/MohdThaha/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/MohdThaha/Leetcode/tree/master/1895-largest-magic-square) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/MohdThaha/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/MohdThaha/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/MohdThaha/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohdThaha/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdThaha/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MohdThaha/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MohdThaha/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/MohdThaha/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Sliding Window
 |  |
 | ------- |
