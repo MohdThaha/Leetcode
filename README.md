@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/MohdThaha/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/MohdThaha/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/MohdThaha/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/MohdThaha/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/MohdThaha/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/MohdThaha/Leetcode/tree/master/0724-find-pivot-index) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/MohdThaha/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/MohdThaha/Leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/MohdThaha/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MohdThaha/Leetcode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/MohdThaha/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/MohdThaha/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MohdThaha/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MohdThaha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/MohdThaha/Leetcode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/MohdThaha/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MohdThaha/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MohdThaha/Leetcode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/MohdThaha/Leetcode/tree/master/2470-removing-stars-from-a-string) |
