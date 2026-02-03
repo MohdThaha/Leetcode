@@ -1,8 +1,13 @@
 class Solution:
     def checkPrimeFrequency(self, nums: List[int]) -> bool:
 
-        freq = Counter(nums)
-        
+        freq = {}
+        for number in nums:
+            if number in freq:
+                freq[number]+=1
+            else:
+                freq[number]=1
+
         def isPrime(n: int) -> bool:
             if n < 2:
                 return False
