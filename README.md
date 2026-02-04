@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MohdThaha/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/MohdThaha/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdThaha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/MohdThaha/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/MohdThaha/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/MohdThaha/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/MohdThaha/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/MohdThaha/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/MohdThaha/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/MohdThaha/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/MohdThaha/Leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/MohdThaha/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/MohdThaha/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/MohdThaha/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/MohdThaha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/MohdThaha/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/MohdThaha/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/MohdThaha/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MohdThaha/Leetcode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/MohdThaha/Leetcode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdThaha/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Depth-First Search
 |  |
