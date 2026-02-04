@@ -1,18 +1,13 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        
-        dig = ""
-        res = []
+        digit = ""
 
         for i in digits:
-            dig += str(i)
-        
-        digs = int(dig)
-        digs += 1
-        dig = str(digs)
+            digit+=str(i)
 
-        for i in range(len(dig)):
-            res.append( int(dig[i]) )
+        value = int(digit) + 1
+        res =[]
 
-        return res
-        
+        for j in str(value):
+            res.append(int(j))
+        return res         
