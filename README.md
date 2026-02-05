@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/MohdThaha/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/MohdThaha/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/MohdThaha/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/MohdThaha/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/MohdThaha/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/MohdThaha/Leetcode/tree/master/0713-subarray-product-less-than-k) |
