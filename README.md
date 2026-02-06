@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MohdThaha/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MohdThaha/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/MohdThaha/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0867-transpose-matrix) |
 | [0873-guess-the-word](https://github.com/MohdThaha/Leetcode/tree/master/0873-guess-the-word) |
 | [0904-fruit-into-baskets](https://github.com/MohdThaha/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdThaha/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/MohdThaha/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/MohdThaha/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0867-transpose-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MohdThaha/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/MohdThaha/Leetcode/tree/master/1895-largest-magic-square) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/MohdThaha/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MohdThaha/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MohdThaha/Leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/MohdThaha/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/MohdThaha/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/MohdThaha/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/MohdThaha/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
