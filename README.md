@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/MohdThaha/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/MohdThaha/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/MohdThaha/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0830-positions-of-large-groups](https://github.com/MohdThaha/Leetcode/tree/master/0830-positions-of-large-groups) |
 | [0873-guess-the-word](https://github.com/MohdThaha/Leetcode/tree/master/0873-guess-the-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MohdThaha/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MohdThaha/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
