@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/MohdThaha/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohdThaha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohdThaha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/MohdThaha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MohdThaha/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/MohdThaha/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdThaha/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/MohdThaha/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MohdThaha/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/MohdThaha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MohdThaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohdThaha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MohdThaha/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -506,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/MohdThaha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MohdThaha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
