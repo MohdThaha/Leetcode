@@ -6,12 +6,13 @@ class Solution:
         ans = []
         
         while(x <= y):
-            if numbers[x] + numbers[y] == target:
+            mid = numbers[x] + numbers[y]
+            if mid == target:
                 ans.append(x+1)
                 ans.append(y+1)
                 break
-            elif numbers[x] + numbers[y] > target:
+            elif mid > target:
                 y-=1 
-            elif numbers[x] + numbers[y] < target:
+            elif mid < target:
                 x+=1
         return ans
