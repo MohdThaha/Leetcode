@@ -1,21 +1,15 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        minval = nums[0]
-
-        l = 0
-        r = len(nums) - 1
+        l, r = 0, len(nums) - 1
 
         while l < r:
-            if nums[l] <= nums[r]:
-                minval = min(minval, nums[l])
-                break
-
             mid = (l + r) // 2
-            minval = min(minval, nums[mid])
 
-            if nums[l] <= nums[mid]:
+            # Minimum is in the right half
+            if nums[mid] > nums[r]:
                 l = mid + 1
             else:
+                # Minimum is at mid or in left half
                 r = mid
 
-        return min(minval, nums[l])   # 👈 critical line
+        return nums[l]
