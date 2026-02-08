@@ -1,18 +1,13 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        
-        l = 0
-        r = len(numbers)-1
-        ans = []
-        
-        while(l <= r):
-            mid = numbers[l] + numbers[r]
-            if mid == target:
-                ans.append(l+1)
-                ans.append(r+1)
-                break
-            elif mid > target:
-                r-=1 
-            elif mid < target:
-                l+=1
-        return ans
+        l, r = 0, len(numbers) - 1
+
+        while l < r:
+            s = numbers[l] + numbers[r]
+
+            if s == target:
+                return [l + 1, r + 1]
+            elif s > target:
+                r -= 1
+            else:
+                l += 1
