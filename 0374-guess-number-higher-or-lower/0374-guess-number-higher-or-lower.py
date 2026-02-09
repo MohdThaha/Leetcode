@@ -7,18 +7,18 @@
 
 class Solution:
     def guessNumber(self, n: int) -> int:
-        l,r = 0,n
+        l,r = 1,n
 
         while l<r :
             mid = (l+r) // 2
             move = guess(mid)
-
 
             if move == 0:
                 return mid
             
             elif move == -1:
                 r = mid -1
+                
             else:
                 l = mid + 1
         return l
