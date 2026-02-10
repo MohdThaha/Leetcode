@@ -1,17 +1,20 @@
 class Solution:
     def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
-        index_map = {name: i for i, name in enumerate(list1)}
+        
+        mp = {}
 
-        min_sum = float('inf')
+        for i in range(len(list1)):
+            for j in range(len(list2)):
+                if list1[i] == list2[j]:
+                    mp[list1[i]] = i + j
+
+        minValue = min(mp.values())
+    
         res = []
 
-        for j, name in enumerate(list2):
-            if name in index_map:
-                s = index_map[name] + j
-                if s < min_sum:
-                    min_sum = s
-                    res = [name]
-                elif s == min_sum:
-                    res.append(name)
+        for i,j in mp.items():
+            if j== minValue:
+                res.append(i)
 
         return res
+        
