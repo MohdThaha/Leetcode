@@ -7,25 +7,16 @@
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
 
-        res = True
+        if not p and not q:
+            return True
 
-        def check(p,q):
-            
-            nonlocal res
+        if not p or not q:
+            return False
 
-            if not p and not q:
-                return
-
-            if not p or not q:
-                res = False
-                return
-
-            if p.val != q.val:
-                res = False
-                return
-
-            check(p.left,q.left)
-            check(p.right,q.right)
-
-        check(p, q)   
-        return res        
+        if p.val != q.val:
+            return False
+        
+        return (
+            self.isSameTree(p.left, q.left) and
+            self.isSameTree(p.right, q.right)
+        )
