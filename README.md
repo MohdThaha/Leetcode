@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/MohdThaha/Leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/MohdThaha/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/MohdThaha/Leetcode/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdThaha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/MohdThaha/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/MohdThaha/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/MohdThaha/Leetcode/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/MohdThaha/Leetcode/tree/master/0475-heaters) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/MohdThaha/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohdThaha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/MohdThaha/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
