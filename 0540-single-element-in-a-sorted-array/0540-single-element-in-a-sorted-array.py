@@ -7,7 +7,6 @@ class Solution:
         while left < right:
             mid = (left + right) // 2
             
-            # Ensure mid is even
             if mid % 2 == 1:
                 mid -= 1
                 
