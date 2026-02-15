@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/MohdThaha/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MohdThaha/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/MohdThaha/Leetcode/tree/master/0189-rotate-array) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MohdThaha/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/MohdThaha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/MohdThaha/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MohdThaha/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/MohdThaha/Leetcode/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MohdThaha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
