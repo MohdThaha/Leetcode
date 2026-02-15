@@ -9,7 +9,7 @@ class Solution:
 
         result = []
 
-        def bfs(node,level):
+        def dfs(node,level):
             if not node:
                 return
             if len(result) == level:
@@ -17,9 +17,9 @@ class Solution:
             
             result[level].append(node.val)
 
-            bfs(node.left,level+1)
-            bfs(node.right,level+1)
-        bfs(root,0)
+            dfs(node.left,level+1)
+            dfs(node.right,level+1)
+        dfs(root,0)
 
         return result[::-1]
 
