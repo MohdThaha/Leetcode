@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MohdThaha/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MohdThaha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohdThaha/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MohdThaha/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/MohdThaha/Leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/MohdThaha/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MohdThaha/Leetcode/tree/master/0735-asteroid-collision) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohdThaha/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MohdThaha/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohdThaha/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MohdThaha/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Geometry
 |  |
 | ------- |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohdThaha/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MohdThaha/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/MohdThaha/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
