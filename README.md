@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohdThaha/Leetcode/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohdThaha/Leetcode/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Geometry
 |  |
 | ------- |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohdThaha/Leetcode/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MohdThaha/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0463-island-perimeter](https://github.com/MohdThaha/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
