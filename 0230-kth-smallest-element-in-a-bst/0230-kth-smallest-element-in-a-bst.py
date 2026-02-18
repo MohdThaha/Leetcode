@@ -4,24 +4,17 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        self.counter = 0
-        self.res = None
+        arr = []
 
         def inorder(node):
-            if not node or self.res is not None:
+            if node is None:
                 return
             
             inorder(node.left)
-            
-            self.counter += 1
-            if self.counter == k:
-                self.res = node.val
-                return
-            
+            arr.append(node.val)
             inorder(node.right)
-
+        
         inorder(root)
-        return self.res
+        return arr[k-1]
