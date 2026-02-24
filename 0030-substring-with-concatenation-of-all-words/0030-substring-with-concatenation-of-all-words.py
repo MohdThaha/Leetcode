@@ -1,19 +1,42 @@
 class Solution:
     def findSubstring(self, s: str, words: List[str]) -> List[int]:
-        words.sort()
-        n=len(s)
-        k=len(words)
-        ans=[]
-        wk=len(words[0])
-        width=k*wk
-        def is_possible(st,w):
-            curr=[]
-            for i in range(0,len(st),wk):
-                curr.append(st[i:i+wk])
-            curr.sort()
-            return w==curr
-        for i in range(n-width+1):
-            if is_possible(s[i:i+width],words):
-                ans.append(i)
-        return ans
+        if not s or not words:
+            return []
         
+        wordLen = len(words[0])
+        totalWords = len(words)
+        totalLen = wordLen * totalWords
+        wordCount = Counter(words)
+        result = []
+        
+        # We need to check for each possible offset
+        for i in range(wordLen):
+            left = i
+            currCount = defaultdict(int)
+            count = 0
+            
+            # Move in steps of wordLen
+            for right in range(i, len(s) - wordLen + 1, wordLen):
+                word = s[right:right + wordLen]
+                
+                if word in wordCount:
+                    currCount[word] += 1
+                    count += 1
+                    
+                    # If word appears more than expected, shrink window
+                    while currCount[word] > wordCount[word]:
+                        leftWord = s[left:left + wordLen]
+                        currCount[leftWord] -= 1
+                        count -= 1
+                        left += wordLen
+                    
+                    # If window matches totalWords, record index
+                    if count == totalWords:
+                        result.append(left)
+                else:
+                    # Reset window
+                    currCount.clear()
+                    count = 0
+                    left = right + wordLen
+        
+        return result
