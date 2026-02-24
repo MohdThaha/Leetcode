@@ -4,28 +4,29 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import defaultdict
+
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
+        prefix = defaultdict(int)
+        prefix[0] = 1
+        self.count = 0
         
-        def dfs(node, remaining):
+        def dfs(node, currSum):
             if not node:
-                return 0
+                return
             
-            count = 0
-            if node.val == remaining:
-                count += 1
+            currSum += node.val
             
-            count += dfs(node.left, remaining - node.val)
-            count += dfs(node.right, remaining - node.val)
+            self.count += prefix[currSum - targetSum]
             
-            return count
+            prefix[currSum] += 1
+            
+            dfs(node.left, currSum)
+            dfs(node.right, currSum)
+            
+            prefix[currSum] -= 1  # backtrack
         
-        if not root:
-            return 0
-        
-        return (
-            dfs(root, targetSum)
-            + self.pathSum(root.left, targetSum)
-            + self.pathSum(root.right, targetSum)
-        )
+        dfs(root, 0)
+        return self.count
         
