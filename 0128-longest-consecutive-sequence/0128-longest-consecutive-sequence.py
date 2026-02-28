@@ -4,17 +4,16 @@ class Solution:
         if not nums:
            return 0
 
+        nums = list(set(nums))
         nums.sort()
+        count = 1
         longest = 1
-        curr = 1
 
         for i in range(1, len(nums)):
-            if nums[i] == nums[i - 1]:
-                continue 
-            elif nums[i] == nums[i - 1] + 1:
-                curr += 1
+            if nums[i] == nums[i-1] + 1:
+                count += 1
+                longest = max(longest, count)
             else:
-                longest = max(longest, curr)
-                curr = 1
-
-        return max(longest, curr)
+                count = 1
+        
+        return longest 
