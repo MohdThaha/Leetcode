@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/MohdThaha/Leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MohdThaha/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MohdThaha/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/MohdThaha/Leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohdThaha/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohdThaha/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MohdThaha/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/MohdThaha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/MohdThaha/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MohdThaha/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/MohdThaha/Leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohdThaha/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohdThaha/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohdThaha/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
