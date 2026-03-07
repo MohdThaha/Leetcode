@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/MohdThaha/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MohdThaha/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/MohdThaha/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MohdThaha/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/MohdThaha/Leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MohdThaha/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/MohdThaha/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/MohdThaha/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/MohdThaha/Leetcode/tree/master/0463-island-perimeter) |
+| [0993-cousins-in-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
