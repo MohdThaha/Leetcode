@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/MohdThaha/Leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdThaha/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdThaha/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/MohdThaha/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohdThaha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MohdThaha/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/MohdThaha/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/MohdThaha/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/MohdThaha/Leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/MohdThaha/Leetcode/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MohdThaha/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/MohdThaha/Leetcode/tree/master/1895-largest-magic-square) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/MohdThaha/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/MohdThaha/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/MohdThaha/Leetcode/tree/master/0463-island-perimeter) |
 | [0993-cousins-in-binary-tree](https://github.com/MohdThaha/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/MohdThaha/Leetcode/tree/master/0994-rotting-oranges) |
 ## Number Theory
 |  |
 | ------- |
