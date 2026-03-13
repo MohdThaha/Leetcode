@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/MohdThaha/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MohdThaha/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/MohdThaha/Leetcode/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/MohdThaha/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/MohdThaha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/MohdThaha/Leetcode/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohdThaha/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
