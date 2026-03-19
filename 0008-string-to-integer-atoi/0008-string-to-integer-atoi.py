@@ -1,40 +1,43 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        MAX_INT, MIN_INT = 2**31 - 1, -(2**31)
         if not s:
             return 0
-
-        for i in range(len(s)):
-            if s[i] != " ":
-                s = s[i:]
-                break
-
-        if s[0] == "-":
-            s = s[1:]
+        
+        # Constants for 32-bit signed integer range
+        INT_MAX = 2**31 - 1
+        INT_MIN = -2**31
+        
+        i = 0
+        n = len(s)
+        
+        # Step 1: Skip leading whitespace
+        while i < n and s[i] == ' ':
+            i += 1
+        
+        # Check if we've reached the end
+        if i == n:
+            return 0
+        
+        # Step 2: Check for sign
+        sign = 1
+        if s[i] == '+':
+            i += 1
+        elif s[i] == '-':
             sign = -1
-        elif s[0] == "+":
-            s = s[1:]
-            sign = 1
-        else:
-            sign = 1
-
-        for i in range(len(s)):
-            if s[i] != "0":
-                s = s[i:]
-                break
-
-        for i in range(len(s)):
-            if not s[i].isdigit():
-                s = s[:i]
-                break
-
-        if not s:
-            return 0
-        num = int(s) * sign
-
-        if num > MAX_INT:
-            return MAX_INT
-        elif num < MIN_INT:
-            return MIN_INT
-        else:
-            return num
+            i += 1
+        
+        # Step 3: Read digits and convert
+        res = 0
+        while i < n and s[i].isdigit():
+            digit = int(s[i])
+            res = res * 10 + digit
+            
+            if sign * res <= INT_MIN:
+                return INT_MIN
+            if sign * res >= INT_MAX:
+                return INT_MAX
+            
+            i += 1
+        
+        # Step 4: Apply sign and return
+        return res * sign
