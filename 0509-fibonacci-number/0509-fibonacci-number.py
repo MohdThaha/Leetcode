@@ -1,15 +1,13 @@
 class Solution:
     def fib(self, n: int) -> int:
-        dp = [-1] * (n + 1)
-        return self.helper(n, dp)
+        memo = {}
 
-    def helper(self, n, dp):
-        if n <= 1:
-            return n
-        
-        if dp[n] != -1:
-            return dp[n]
+        def f(n):
+            if n in memo:
+                return memo[n]
+            if n <= 1:
+                return n
+            memo[n] = f(n-1) + f(n-2)
+            return memo[n]
 
-        dp[n] = self.helper(n - 1, dp) + self.helper(n - 2, dp)
-        return dp[n]
-        
+        return f(n)
